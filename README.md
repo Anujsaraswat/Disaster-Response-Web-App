@@ -16,11 +16,11 @@
 ### Files/Folders :
 The Project contains the following folders
 
-app: files related to the Web App
+App: files related to the Web App
 
-data: contains csv files , database file and data processing script
+Data: contains csv files , database file and data processing script
 
-models: contains the trained classifier and the respective script
+Models: contains the trained classifier and the respective script
 
 ### Web App
 1. Main Page

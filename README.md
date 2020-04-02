@@ -23,5 +23,10 @@ data: contains csv files , database file and data processing script
 models: contains the trained classifier and the respective script
 
 ### Web App
+1. Main Page
 
-![Web App Screenshots](https://imgur.com/a/phZ1NuD)
+![Web App Screenshot](https://user-images.githubusercontent.com/57795947/78289639-180bba80-7540-11ea-9a83-efaa80364ccb.PNG)
+
+2. Classifying text
+
+![Web App in Action](https://user-images.githubusercontent.com/57795947/78289933-881a4080-7540-11ea-855e-138570a0064f.PNG)

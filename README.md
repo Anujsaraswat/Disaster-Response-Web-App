@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-### Instructions:
+## Instructions
 1. Run the following commands in the project's root directory to set up the database and model.
 
     - To run ETL pipeline that cleans data and stores in database
@@ -13,16 +13,25 @@
     
 3. Go to http://0.0.0.0:3001/
 
-### Files/Folders :
+## Directories
 The Project contains the following folders
 
-App: files related to the Web App
+- `App`: files related to the Web App
 
-Data: contains csv files , database file and data processing script
+- `Data`: contains csv files , database file and data processing script
 
-Models: contains the trained classifier and the respective script
+- `Models`: contains the trained classifier and the training script
 
-### Web App
+## Requirements
+- sklearn
+- nltk
+- pandas
+- numpy
+- joblib
+- re
+- Flask
+
+## Web App
 1. Main Page
 
 ![Web App Screenshot](https://user-images.githubusercontent.com/57795947/78289639-180bba80-7540-11ea-9a83-efaa80364ccb.PNG)
